@@ -6,7 +6,7 @@ Writes the entry line to $MAKEFUN_OUTPUT_DIR/entry.txt.
 import os
 import sys
 
-LINE = "Sorry about the bug — I tested it in a universe where users read the instructions, follow them, and never click the one button labelled 'do not click'."
+LINE = "Sorry about the bug, truly — I tested it in a universe where users read the instructions, follow them, and never click the one button labelled 'do not click'."
 MAX_CHARS = 200
 
 
